@@ -1,2 +1,3 @@
 # hello-world
-Ideas &amp; continual learning
+Ideas
+Learner data mamonger
